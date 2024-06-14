@@ -1,4 +1,4 @@
-# Documentação da API - Postman Collection
+# Documentação da API - Postman Collection a
 
 ## Descrição
 Esta documentação descreve as APIs disponíveis na aplicação para gerenciamento de avaliações de produtos.
